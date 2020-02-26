@@ -15,4 +15,12 @@
 4. Basic knowledge in Java, Python, SQL, HTML+CSS, OOP, command line, git,  
    algorithm and data structure
    
-5. ToDo()
+5. ```kotlin
+    ToDo()
+   ```
+
+6. My large experience is laboratory and сourse works in university.
+
+7. BNTU FITR 3 course, intro to python by epam, some online sourse...
+
+8. A2, practiced at the 2nd European Games
