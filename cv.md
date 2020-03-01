@@ -16,7 +16,7 @@
    algorithm and data structure
    
 5. ```kotlin
-    ToDo()
+    TODO()
    ```
 
 6. My large experience is laboratory and сourse works in university.
